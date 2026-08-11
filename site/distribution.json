@@ -6072,6 +6072,17 @@
           }
         },
         {
+          "id": "깔끔이(리팩).zip",
+          "name": "깔끔이(리팩).zip",
+          "type": "File",
+          "artifact": {
+            "size": 10526243,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/resourcepacks/%EA%B9%94%EB%81%94%EC%9D%B4(%EB%A6%AC%ED%8C%A9).zip",
+            "MD5": "caa98929cfc4eff4614fbea5fa81dbd0",
+            "path": "resourcepacks/깔끔이(리팩).zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
