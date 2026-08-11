@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/hyeon/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/gameapp_test/NebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "윤생서버2",
+    "description": "윤생서버2 설정 파일",
+    "icon": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/icon.png",
+    "address": "wills-denny.tun.ply.gg",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}
