@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/FA+Player-v1.1.zip","file/§6윤생서버2-inv"]
+resourcePacks:["vanilla","fabric","file/FA+Player-v1.1.zip","file/§6윤생서버2-inv","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["asyncparticles","badoptimizations","balm","defaultoptions","drippyloadingscreen","entity_model_features","entity_texture_features","fancymenu","hysi","konkrete","koreanpatch","watut","yet_another_config_lib_v3"]
 lastServer:
 lang:ko_kr

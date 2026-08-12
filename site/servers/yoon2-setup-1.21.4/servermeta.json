@@ -5,7 +5,7 @@
     "name": "윤생서버2",
     "description": "윤생서버2 설정 파일",
     "icon": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/icon.png",
-    "address": "ydmc.veltostudio.com",
+    "address": "115.68.178.210",
     "mainServer": true,
     "autoconnect": true
   },

@@ -13,7 +13,7 @@
       "description": "윤생서버2 설정 파일",
       "icon": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/icon.png",
       "version": "1.0.0",
-      "address": "ydmc.veltostudio.com",
+      "address": "115.68.178.210",
       "minecraftVersion": "1.21.4",
       "mainServer": true,
       "autoconnect": true,
@@ -576,9 +576,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2751,
+            "size": 2808,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/defaultoptions/options.txt",
-            "MD5": "397ceecfe1399b0510398fa68d44ee03",
+            "MD5": "d23212958238f376dc5d3ba329bc9b34",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -587,9 +587,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 97,
+            "size": 91,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/defaultoptions/servers.dat",
-            "MD5": "35b948de221eacd27e25dd2cf6de5af8",
+            "MD5": "3373b191c3d645f6105057e0b63d3d28",
             "path": "config/defaultoptions/servers.dat"
           }
         },
@@ -873,9 +873,9 @@
           "name": "YSDonationConfig.yml",
           "type": "File",
           "artifact": {
-            "size": 561,
+            "size": 555,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/YSDonationConfig.yml",
-            "MD5": "7f6e5185ffbfdecb6c94dceaaa9cc1e1",
+            "MD5": "1d9ae8cb14f17831891d8750cea6d8d2",
             "path": "config/YSDonationConfig.yml"
           }
         },
@@ -6091,17 +6091,6 @@
             "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/resourcepacks/%EA%B9%94%EB%81%94%EC%9D%B4(%EB%A6%AC%ED%8C%A9).zip",
             "MD5": "caa98929cfc4eff4614fbea5fa81dbd0",
             "path": "resourcepacks/깔끔이(리팩).zip"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 99,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/servers.dat",
-            "MD5": "61140b4228636bae6784502cd77f0ae7",
-            "path": "servers.dat"
           }
         },
         {
