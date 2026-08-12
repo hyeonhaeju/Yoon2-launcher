@@ -501,16 +501,6 @@
           }
         },
         {
-          "id": "me.zipestudio.talkingheads.entrypoint:talkingheads:1.1.3+1.21.4+fabric@jar",
-          "name": "Talking Heads",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 289843,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/fabricmods/required/talking-heads-1.1.3+1.21.4+fabric.jar",
-            "MD5": "9bc672e79e764898e9d54ae0b95a8432"
-          }
-        },
-        {
           "id": "com.ishland:vmp:0.2.0+beta.7.192+1.21.4@jar",
           "name": "Very Many Players",
           "type": "FabricMod",
@@ -518,16 +508,6 @@
             "size": 424449,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/fabricmods/required/vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar",
             "MD5": "2fcbada747cec8c4a6a90f10db65cc73"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.21.4-2.6.22@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5376736,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/fabricmods/required/voicechat-fabric-1.21.4-2.6.22.jar",
-            "MD5": "1815ead88618b1fce0fb86eb0447e15b"
           }
         },
         {
