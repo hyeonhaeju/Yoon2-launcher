@@ -1,0 +1,24 @@
+#
+# 실제 마인크래프트 서버가 아닌, 후원 연동을 위한 서버
+#
+Server:
+  ip: "ydmc.veltostudio.com"
+  port: 8888
+
+#
+# 이벤트 화이트리스트 기능
+#
+SendEvent:
+  donation: true
+  chat: true
+
+#
+# 자동 연동 메시지 설정
+# {player} = 내 닉네임
+#
+Message:
+  linkingInProgress: "&e후원 연동중..."
+  linkSuccess: "&a연동 되었습니다 {player}님"
+  linkFailed: "&c자동 연동 실패, /치지직 로그인 해주세요"
+  f3Linked: "&b[YSD] &f후원연동 연결됨"
+  f3Unlinked: "&b[YSD] &f후원연동 연결안됨"

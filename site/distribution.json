@@ -869,6 +869,17 @@
           }
         },
         {
+          "id": "YSDonationConfig.yml",
+          "name": "YSDonationConfig.yml",
+          "type": "File",
+          "artifact": {
+            "size": 561,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/YSDonationConfig.yml",
+            "MD5": "7f6e5185ffbfdecb6c94dceaaa9cc1e1",
+            "path": "config/YSDonationConfig.yml"
+          }
+        },
+        {
           "id": "zoomify.json",
           "name": "zoomify.json",
           "type": "File",
