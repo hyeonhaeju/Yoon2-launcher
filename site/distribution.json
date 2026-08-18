@@ -825,6 +825,105 @@
           }
         },
         {
+          "id": "1.png",
+          "name": "1.png",
+          "type": "File",
+          "artifact": {
+            "size": 642403,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/1.png",
+            "MD5": "e60166f6518ced71d997080417032500",
+            "path": "config/sollaplayer/dmg/1.png"
+          }
+        },
+        {
+          "id": "2.png",
+          "name": "2.png",
+          "type": "File",
+          "artifact": {
+            "size": 530895,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/2.png",
+            "MD5": "cc5cdcdfa77eeeec3c40c86e016303cd",
+            "path": "config/sollaplayer/dmg/2.png"
+          }
+        },
+        {
+          "id": "3.png",
+          "name": "3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1108054,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/3.png",
+            "MD5": "dcc78f4d482842d8a3e074837eeb687b",
+            "path": "config/sollaplayer/dmg/3.png"
+          }
+        },
+        {
+          "id": "4.png",
+          "name": "4.png",
+          "type": "File",
+          "artifact": {
+            "size": 597408,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/4.png",
+            "MD5": "2a4c52e98c6838b32a12bbb192b33281",
+            "path": "config/sollaplayer/dmg/4.png"
+          }
+        },
+        {
+          "id": "5.png",
+          "name": "5.png",
+          "type": "File",
+          "artifact": {
+            "size": 609863,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/5.png",
+            "MD5": "e4046988f38c727355d82ba25a01a6a1",
+            "path": "config/sollaplayer/dmg/5.png"
+          }
+        },
+        {
+          "id": "6.png",
+          "name": "6.png",
+          "type": "File",
+          "artifact": {
+            "size": 607978,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/6.png",
+            "MD5": "6c5c57b40a7f1ca5f512cfb083ef8d21",
+            "path": "config/sollaplayer/dmg/6.png"
+          }
+        },
+        {
+          "id": "7.png",
+          "name": "7.png",
+          "type": "File",
+          "artifact": {
+            "size": 623263,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/7.png",
+            "MD5": "b688e91d503c8caf50fd8713a447f08d",
+            "path": "config/sollaplayer/dmg/7.png"
+          }
+        },
+        {
+          "id": "8.png",
+          "name": "8.png",
+          "type": "File",
+          "artifact": {
+            "size": 659475,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/8.png",
+            "MD5": "d0df155b05977f9a3826767c1e7c3c11",
+            "path": "config/sollaplayer/dmg/8.png"
+          }
+        },
+        {
+          "id": "9.png",
+          "name": "9.png",
+          "type": "File",
+          "artifact": {
+            "size": 589905,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/dmg/9.png",
+            "MD5": "2b46873a49e9dd567e2c9a710e46485c",
+            "path": "config/sollaplayer/dmg/9.png"
+          }
+        },
+        {
           "id": "rule1.png",
           "name": "rule1.png",
           "type": "File",
