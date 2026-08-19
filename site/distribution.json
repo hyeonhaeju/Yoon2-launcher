@@ -990,6 +990,204 @@
           }
         },
         {
+          "id": "boaring.json",
+          "name": "boaring.json",
+          "type": "File",
+          "artifact": {
+            "size": 125414,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/boaring.json",
+            "MD5": "ab5baf0e843a53d1a3e84dbe34d6a648",
+            "path": "emotes/boaring.json"
+          }
+        },
+        {
+          "id": "boaring.png",
+          "name": "boaring.png",
+          "type": "File",
+          "artifact": {
+            "size": 22912,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/boaring.png",
+            "MD5": "6648dacac92530d070213a2c20b72d41",
+            "path": "emotes/boaring.png"
+          }
+        },
+        {
+          "id": "CaramellDansen.emotecraft",
+          "name": "CaramellDansen.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 58953,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/CaramellDansen.emotecraft",
+            "MD5": "d63d8cb4512a3e7dde81811e7fac3381",
+            "path": "emotes/CaramellDansen.emotecraft"
+          }
+        },
+        {
+          "id": "handsup.json",
+          "name": "handsup.json",
+          "type": "File",
+          "artifact": {
+            "size": 19439,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/handsup.json",
+            "MD5": "058d5721b99a3595dc37fc9b2f06ef63",
+            "path": "emotes/handsup.json"
+          }
+        },
+        {
+          "id": "handsup.png",
+          "name": "handsup.png",
+          "type": "File",
+          "artifact": {
+            "size": 22139,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/handsup.png",
+            "MD5": "e43be316c7c880081aabf65eaa320db2",
+            "path": "emotes/handsup.png"
+          }
+        },
+        {
+          "id": "mayhem.json",
+          "name": "mayhem.json",
+          "type": "File",
+          "artifact": {
+            "size": 39268,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/mayhem.json",
+            "MD5": "3937880e85e53cb2fdd996c31975d704",
+            "path": "emotes/mayhem.json"
+          }
+        },
+        {
+          "id": "mayhem.png",
+          "name": "mayhem.png",
+          "type": "File",
+          "artifact": {
+            "size": 23412,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/mayhem.png",
+            "MD5": "bc0dea557e0dcb43ee4d600ab8a78d6c",
+            "path": "emotes/mayhem.png"
+          }
+        },
+        {
+          "id": "pt6.json",
+          "name": "pt6.json",
+          "type": "File",
+          "artifact": {
+            "size": 28660,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/pt6.json",
+            "MD5": "66f953758986938befe5462fd2d92398",
+            "path": "emotes/pt6.json"
+          }
+        },
+        {
+          "id": "pt6.png",
+          "name": "pt6.png",
+          "type": "File",
+          "artifact": {
+            "size": 21062,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/pt6.png",
+            "MD5": "52fb1ed57f1775f829b55773ea84a84c",
+            "path": "emotes/pt6.png"
+          }
+        },
+        {
+          "id": "pt8.json",
+          "name": "pt8.json",
+          "type": "File",
+          "artifact": {
+            "size": 45877,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/pt8.json",
+            "MD5": "f2c6a4bc23bdcd5fa3540ead3f729a9a",
+            "path": "emotes/pt8.json"
+          }
+        },
+        {
+          "id": "pt8.png",
+          "name": "pt8.png",
+          "type": "File",
+          "artifact": {
+            "size": 20904,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/pt8.png",
+            "MD5": "5f05ce1cc045d3bcd461cc7c462229cf",
+            "path": "emotes/pt8.png"
+          }
+        },
+        {
+          "id": "pt8worst.json",
+          "name": "pt8worst.json",
+          "type": "File",
+          "artifact": {
+            "size": 141768,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/pt8worst.json",
+            "MD5": "d5c7cbd29fffb03d121a1d465b185558",
+            "path": "emotes/pt8worst.json"
+          }
+        },
+        {
+          "id": "pt8worst.png",
+          "name": "pt8worst.png",
+          "type": "File",
+          "artifact": {
+            "size": 22127,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/pt8worst.png",
+            "MD5": "09edd708b40dafb4739fe0bd99aa9c81",
+            "path": "emotes/pt8worst.png"
+          }
+        },
+        {
+          "id": "Sit Adorably.emotecraft",
+          "name": "Sit Adorably.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 72538,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/Sit%20Adorably.emotecraft",
+            "MD5": "2d37f323574f7c8d192eb31d2fb809f4",
+            "path": "emotes/Sit Adorably.emotecraft"
+          }
+        },
+        {
+          "id": "taunt1.json",
+          "name": "taunt1.json",
+          "type": "File",
+          "artifact": {
+            "size": 66294,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/taunt1.json",
+            "MD5": "90bbfd5e18be935e23e568419b950b04",
+            "path": "emotes/taunt1.json"
+          }
+        },
+        {
+          "id": "taunt1.png",
+          "name": "taunt1.png",
+          "type": "File",
+          "artifact": {
+            "size": 21993,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/taunt1.png",
+            "MD5": "f8e5e52aabbe1c70a008df3184eef244",
+            "path": "emotes/taunt1.png"
+          }
+        },
+        {
+          "id": "taunt3.json",
+          "name": "taunt3.json",
+          "type": "File",
+          "artifact": {
+            "size": 84211,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/taunt3.json",
+            "MD5": "495705f65a3de4ebb98d0d696cf61e2d",
+            "path": "emotes/taunt3.json"
+          }
+        },
+        {
+          "id": "taunt3.png",
+          "name": "taunt3.png",
+          "type": "File",
+          "artifact": {
+            "size": 20566,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/emotes/taunt3.png",
+            "MD5": "9ddfae4b8028f0bb404daa8ec1993fd9",
+            "path": "emotes/taunt3.png"
+          }
+        },
+        {
           "id": "journeymap.fullmap.config",
           "name": "journeymap.fullmap.config",
           "type": "File",
@@ -6190,6 +6388,17 @@
             "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/resourcepacks/%EA%B9%94%EB%81%94%EC%9D%B4(%EB%A6%AC%ED%8C%A9).zip",
             "MD5": "caa98929cfc4eff4614fbea5fa81dbd0",
             "path": "resourcepacks/깔끔이(리팩).zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 91,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/servers.dat",
+            "MD5": "3373b191c3d645f6105057e0b63d3d28",
+            "path": "servers.dat"
           }
         },
         {
