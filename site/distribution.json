@@ -481,6 +481,16 @@
           }
         },
         {
+          "id": "kr.hyeon:pickupnotify:1.0.0@jar",
+          "name": "SolLa-PickUI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12203,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/fabricmods/required/SolLa-PickUI-1.0.0.jar",
+            "MD5": "3104818dc861b9d8f04c3393bd4e6b5b"
+          }
+        },
+        {
           "id": "com.sollaplayer:sollaplayer:2.0.0@jar",
           "name": "SolLaPlayer",
           "type": "FabricMod",
