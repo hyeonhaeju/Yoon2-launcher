@@ -835,6 +835,17 @@
           }
         },
         {
+          "id": "map_off.png",
+          "name": "map_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 120677,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/Yoon2-launcher/main/site/servers/yoon2-setup-1.21.4/files/config/sollaplayer/bm/map_off.png",
+            "MD5": "dfe8c46388615806fd9c6c3d320b26c5",
+            "path": "config/sollaplayer/bm/map_off.png"
+          }
+        },
+        {
           "id": "1.png",
           "name": "1.png",
           "type": "File",
